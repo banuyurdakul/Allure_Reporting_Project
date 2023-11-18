@@ -2,7 +2,6 @@
 Feature: User should be able to log in to website
 
   Scenario : User enters valid username and valid password to log in (Positive Test Case)
-
     Given User visits the automation exercise page
     And   User clicks the practice link
     And   User clicks the Test Login Page button
